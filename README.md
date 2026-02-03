@@ -9,7 +9,7 @@ Turning raw data into clear, actionable insights through analysis and dashboards
 ## 👤 About
 
 * 🎓 BCA Graduate (2025)
-* 📊 Entry-level Data Analyst
+* 📊 Data Analyst
 * 🤖 Interested in AI, ML & LLM systems
 
 ---
