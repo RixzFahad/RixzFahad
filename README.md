@@ -30,9 +30,5 @@ Pandas, NumPy, Git, Excel
 ---
 
 ## 📫 Contact
-
 * 📧 [khanfahad004x@gmail.com](mailto:khanfahad004x@gmail.com)
 * 💼 LinkedIn: fahad-khan-134a61252
-* 💻 GitHub: RixzFahad
-
-⭐ *Simple. Clear. Short.*
