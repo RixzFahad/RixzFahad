@@ -35,10 +35,18 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <tr>
 
 <td width="33%">
-<b>📈 Recruitment Funnel Dashboard</b>
+
+<b>🌦️ Weather Forecast Dashboard</b>
 <br>
-Analytics dashboard tracking candidate pipeline,
-conversion rates & hiring insights.
+Interactive dashboard showing real-time weather data,
+forecast insights, and visual analytics using structured datasets.
+
+<br><br>
+
+<a href="https://github.com/rixzfahad/YOUR-REPO-NAME">
+🔗 View Project Repository
+</a>
+
 </td>
 
 <td width="33%">
