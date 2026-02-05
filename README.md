@@ -7,15 +7,30 @@
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <h3>👨‍💻 About Me</h3>
+
 <ul>
-<li>📊 Data Analytics & Reporting</li>
+<li>📊 Data Analytics & Visualization</li>
 <li>📈 HR Analytics & Recruitment Metrics</li>
 <li>📊 Dashboard Development</li>
 <li>🐍 Python Data Analysis</li>
-<li>📉 Excel & SQL Analytics</li>
+<li>📉 Excel & SQL Reporting</li>
+</ul>
+
+<h3>🚀 Featured Projects</h3>
+
+<ul>
+<li><b>Recruitment Funnel Analysis</b><br>
+Candidate pipeline tracking & hiring insights dashboard</li>
+
+<li><b>HR Analytics Dashboard</b><br>
+Data-driven hiring & workforce analysis</li>
+
+<li><b>Data Reporting Automation</b><br>
+Python + Excel reporting workflows</li>
 </ul>
 
 <h3>🔗 Connect</h3>
@@ -32,14 +47,6 @@
 <img src="https://skillicons.dev/icons?i=youtube" height="35"/>
 </a>
 
-<h3>💼 Experience</h3>
-<ul>
-<li><b>Deloitte – Data Analytics Internship</b></li>
-<li>Dataset Analysis</li>
-<li>Dashboard Reporting</li>
-<li>Business Insights</li>
-</ul>
-
 </td>
 
 <td width="50%" valign="top">
@@ -47,18 +54,20 @@
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pandas,mysql,postgres,git,github,figma,react"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,figma,react"/>
 </p>
 
 <h3>📊 Data & Analytics Tools</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sklearn,tensorflow"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
 <h3>🎓 Education</h3>
+
 <ul>
 <li>Bachelor of Computer Application</li>
 <li>Dr. Ram Manohar Lohia Awadh University</li>
@@ -66,6 +75,7 @@
 </ul>
 
 </td>
+
 </tr>
 </table>
 
