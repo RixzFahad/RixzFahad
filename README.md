@@ -99,27 +99,45 @@ showing where requested content appears.
 </table>
 
 <hr>
->
 
 <h3>📊 GitHub Stats</h3>
 
-<p>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight"/>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight"/>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <hr>
 
-<h3>🔗 Connect</h3>
+<h3>🤝 Connect With Me</h3>
 
-<p>
-<a href="https://linkedin.com/in/fahad-khan-134a61252">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="https://instagram.com/khan_fhd_04">
-<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+
+<a href="https://www.instagram.com/YOUR-INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
+
 <a href="https://www.youtube.com/@24kgoldnhunter14">
-<img src="https://skillicons.dev/icons?i=youtube" height="35"/>
+<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
 </a>
+
 </p>
+
+<br>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p4N2ltdnF1eXh3M3k2eTZmOXVjcnk3d3B6bDhzYmJrbjQyZDJpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+
+</p>
+
+<hr>
