@@ -34,36 +34,72 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-<b>🌦️ Weather Forecast Dashboard</b>
-<br>
+<h4>🌦️ Weather Forecast Dashboard</h4>
+
+<p>
 Interactive dashboard showing real-time weather data,
 forecast insights, and visual analytics using structured datasets.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
+</p>
+
+<a href="https://github.com/rixzfahad/YOUR-WEATHER-REPO">
+🚀 View Repository
+</a>
+
 </td>
 
-<td width="33%">
-<b>📊 HR Analytics Dashboard</b>
-<br>
+<td width="33%" valign="top">
+
+<h4>📊 HR Analytics Dashboard</h4>
+
+<p>
 Workforce analytics visualization with structured
 data insights and reporting metrics.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
+<img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
+</p>
+
+<a href="https://github.com/rixzfahad/YOUR-HR-REPO">
+🚀 View Repository
+</a>
+
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h4>🎥 RAG-Based Video Q&A System</h4>
 
 <p>
-AI-powered video intelligence module that allows users to ask
-questions about videos and instantly get timestamps showing
-where the requested content appears.
+AI-powered video intelligence module that allows users
+to ask questions about videos and instantly get timestamps
+showing where requested content appears.
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
+<img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
+</p>
+
+<a href="https://github.com/rixzfahad/YOUR-RAG-REPO">
+🚀 View Repository
+</a>
+
 </td>
 
 </tr>
 </table>
 
 <hr>
+>
 
 <h3>📊 GitHub Stats</h3>
 
