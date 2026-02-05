@@ -50,10 +50,14 @@ data insights and reporting metrics.
 </td>
 
 <td width="33%">
-<b>🐍 Data Reporting Automation</b>
-<br>
-Python automation workflows for Excel reporting
-and structured data analysis.
+
+<h4>🎥 RAG-Based Video Q&A System</h4>
+
+<p>
+AI-powered video intelligence module that allows users to ask
+questions about videos and instantly get timestamps showing
+where the requested content appears.
+</p>
 </td>
 
 </tr>
