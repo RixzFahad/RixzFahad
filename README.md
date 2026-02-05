@@ -11,10 +11,18 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dashboard-Development-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge"/>
+<a href="https://github.com/RixzFahad" target="_blank">
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis"/>
+</a>
+<a href="https://github.com/RixzFahad" target="_blank">
+<img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Analytics"/>
+</a>
+<a href="https://github.com/RixzFahad" target="_blank">
+<img src="https://img.shields.io/badge/Dashboard-Development-orange?style=for-the-badge" alt="Dashboard Dev"/>
+</a>
+<a href="https://github.com/RixzFahad" target="_blank">
+<img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge" alt="HR Analytics"/>
+</a>
 </p>
 
 <hr>
@@ -22,8 +30,7 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres" />
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,matplotlib" />
+<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,pandas,numpy,sklearn,tensorflow,matplotlib" title="My Tech Stack"/>
 </p>
 
 <hr>
@@ -74,9 +81,17 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<a href="https://www.youtube.com/@24kgoldnhunter14"><img src="https://skillicons.dev/icons?i=youtube" height="50"/></a>
+<a href="https://www.linkedin.com/in/fahad-khan-134a61252" target="_blank" title="Connect on LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE" target="_blank" title="Follow on Instagram">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@24kgoldnhunter14" target="_blank" title="Subscribe on YouTube">
+<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
+</a>
 </p>
 
 <br>
