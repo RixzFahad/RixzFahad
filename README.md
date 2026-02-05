@@ -1,7 +1,7 @@
 <h1 align="center">📊 Fahad Khan</h1>
 
 <p align="center">
-<b>Data Analyst | HR Analytics | Dashboard Developer</b>
+<b>Data Analyst | Business Analytics | Dashboard Developer</b>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ AI-powered video intelligence module allowing users to ask questions about video
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
+<a href="https://www.instagram.com/khan_fhd_04">
 <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
