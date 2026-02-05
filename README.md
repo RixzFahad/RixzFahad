@@ -22,13 +22,10 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,tensorflow,sklearn" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" style="vertical-align:middle;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" style="vertical-align:middle;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" style="vertical-align:middle;"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
 <hr>
@@ -89,21 +86,23 @@ AI-powered video intelligence module allowing users to ask questions about video
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/fahad-khan-134a61252">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.youtube.com/@24kgoldnhunter14">
-<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
+
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </p>
