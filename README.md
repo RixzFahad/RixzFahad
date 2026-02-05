@@ -23,15 +23,11 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 
 <p align="center">
 
-<!-- Supported Skillicons -->
-<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,tensorflow,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,tensorflow,sklearn" />
 
-<br><br>
-
-<!-- Data Science Icons (Fixed Broken Ones) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" style="vertical-align:middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" style="vertical-align:middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" style="vertical-align:middle;"/>
 
 </p>
 
@@ -45,7 +41,7 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <td width="33%" valign="top">
 <h4 align="center">🌦️ Weather Forecast Dashboard</h4>
 <p align="center">
-Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.
+Interactive dashboard showing real-time weather data, forecast insights and visual analytics using structured datasets.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
@@ -67,7 +63,7 @@ Workforce analytics visualization with structured data insights and reporting me
 <td width="33%" valign="top">
 <h4 align="center">🎥 RAG-Based Video Q&A System</h4>
 <p align="center">
-AI-powered video intelligence module that allows users to ask questions about videos and instantly get timestamps.
+AI-powered video intelligence module allowing users to ask questions about videos and get timestamps instantly.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
@@ -102,12 +98,12 @@ AI-powered video intelligence module that allows users to ask questions about vi
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@24kgoldnhunter14">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="50"/>
+<img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p4N2ltdnF1eXh3M3k2eTZmOXVjcnk3d3B6bDhzYmJrbjQyZDJpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%" alt="anime-footer"/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"/>
 </p>
