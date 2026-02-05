@@ -40,13 +40,6 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <br>
 Interactive dashboard showing real-time weather data,
 forecast insights, and visual analytics using structured datasets.
-
-<br><br>
-
-<a href="https://github.com/rixzfahad/YOUR-REPO-NAME">
-🔗 View Project Repository
-</a>
-
 </td>
 
 <td width="33%">
