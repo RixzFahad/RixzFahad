@@ -1,29 +1,26 @@
-<h1 align="center">📊 Fahad Khan</h1>
+<h1>📊 Fahad Khan</h1>
 
-<p align="center">
-<b>Data Analyst | Dashboard Developer | AI & Analytics Projects</b>
-</p>
+<b>Data Analyst | HR Analytics | Dashboard Developer</b>
 
-<p align="center">
+<p>
 I'm a data-focused developer passionate about transforming raw data into dashboards,
-analytics insights, and intelligent data-driven systems.
-I build structured workflows, visual analytics dashboards, and AI-powered modules.
+analytics insights, and recruitment intelligence systems.
+I build structured data workflows, analytics dashboards, and reporting automation projects.
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dashboard-Development-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Projects-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge"/>
 </p>
 
 <hr>
 
-<h3 align="center">🛠 Languages & Tools</h3>
+<h3>🛠 Languages & Tools</h3>
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres"/>
-<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
@@ -32,26 +29,28 @@ I build structured workflows, visual analytics dashboards, and AI-powered module
 
 <hr>
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
-<table align="center">
+<table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h4>🌦️ Weather Forecast Dashboard</h4>
 
 <p>
 Interactive dashboard showing real-time weather data,
-forecast insights and visual analytics.
+forecast insights, and visual analytics using structured datasets.
 </p>
 
+<p>
 <img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
 <img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
+</p>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h4>📊 HR Analytics Dashboard</h4>
 
@@ -60,22 +59,27 @@ Workforce analytics visualization with structured
 data insights and reporting metrics.
 </p>
 
+<p>
 <img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
-<img src="https://img.shields.io/badge/Data-Insights-orange?style=flat"/>
+<img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
+</p>
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
 <h4>🎥 RAG-Based Video Q&A System</h4>
 
 <p>
-AI-powered video intelligence module that lets users ask
-questions and instantly receive timestamps where content appears.
+AI-powered video intelligence module that allows users
+to ask questions about videos and instantly get timestamps
+showing where requested content appears.
 </p>
 
+<p>
 <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
 <img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
+</p>
 
 </td>
 
@@ -84,29 +88,24 @@ questions and instantly receive timestamps where content appears.
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight&hide_border=true"/>
+
 <br><br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <hr>
 
-<h3 align="center">🎥 YouTube</h3>
+<h3>🤝 Connect With Me</h3>
 
 <p align="center">
-<a href="https://www.youtube.com/@24kgoldnhunter14">
-<img src="https://img.shields.io/badge/YouTube-Visit%20Channel-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-</p>
 
-<hr>
-
-<h3 align="center">🤝 Connect</h3>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
@@ -114,14 +113,19 @@ questions and instantly receive timestamps where content appears.
 <a href="https://www.instagram.com/YOUR-INSTAGRAM">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
+
+<a href="https://www.youtube.com/@24kgoldnhunter14">
+<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
+</a>
+
 </p>
 
-<hr>
-
-<h3 align="center">⚡ Developer Vibes</h3>
+<br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480"/>
+
 </p>
 
 <hr>
