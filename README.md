@@ -1,7 +1,3 @@
-<p align="right">
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120"/>
-</p>
-
 <h1 align="center">📊 Fahad Khan</h1>
 
 <p align="center">
@@ -21,10 +17,6 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge"/>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%"/>
-</p>
-
 <hr>
 
 <h3 align="center">🛠 Languages & Tools</h3>
@@ -34,10 +26,6 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="80"/>
 </p>
 
 <hr>
@@ -103,7 +91,7 @@ AI-powered video intelligence module allowing users to ask questions about video
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/khan_fhd_04">
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
 <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -116,5 +104,5 @@ AI-powered video intelligence module allowing users to ask questions about video
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </p>
