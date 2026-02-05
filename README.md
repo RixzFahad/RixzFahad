@@ -11,18 +11,10 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 </p>
 
 <p align="center">
-<a href="https://github.com/RixzFahad" target="_blank">
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis"/>
-</a>
-<a href="https://github.com/RixzFahad" target="_blank">
-<img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Analytics"/>
-</a>
-<a href="https://github.com/RixzFahad" target="_blank">
-<img src="https://img.shields.io/badge/Dashboard-Development-orange?style=for-the-badge" alt="Dashboard Dev"/>
-</a>
-<a href="https://github.com/RixzFahad" target="_blank">
-<img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge" alt="HR Analytics"/>
-</a>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Analytics-green?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dashboard-Development-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HR-Analytics-purple?style=for-the-badge"/>
 </p>
 
 <hr>
@@ -30,7 +22,17 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">🛠 Languages & Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,pandas,numpy,sklearn,tensorflow,matplotlib" title="My Tech Stack"/>
+
+<!-- Supported Skillicons -->
+<img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,tensorflow,sklearn"/>
+
+<br><br>
+
+<!-- Data Science Icons (Fixed Broken Ones) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+
 </p>
 
 <hr>
@@ -39,30 +41,40 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 <h4 align="center">🌦️ Weather Forecast Dashboard</h4>
-<p align="center">Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.</p>
+<p align="center">
+Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
 <img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
 </p>
 </td>
+
 <td width="33%" valign="top">
 <h4 align="center">📊 HR Analytics Dashboard</h4>
-<p align="center">Workforce analytics visualization with structured data insights and reporting metrics.</p>
+<p align="center">
+Workforce analytics visualization with structured data insights and reporting metrics.
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
 <img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
 </p>
 </td>
+
 <td width="33%" valign="top">
 <h4 align="center">🎥 RAG-Based Video Q&A System</h4>
-<p align="center">AI-powered video intelligence module that allows users to ask questions about videos and instantly get timestamps.</p>
+<p align="center">
+AI-powered video intelligence module that allows users to ask questions about videos and instantly get timestamps.
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
 <img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
 </p>
 </td>
+
 </tr>
 </table>
 
@@ -71,9 +83,9 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight&hide_border=true"/>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true" alt="Readme Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr>
@@ -81,16 +93,16 @@ I build structured data workflows, analytics dashboards, and reporting automatio
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fahad-khan-134a61252" target="_blank" title="Connect on LinkedIn">
+<a href="https://www.linkedin.com/in/fahad-khan-134a61252">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE" target="_blank" title="Follow on Instagram">
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@24kgoldnhunter14" target="_blank" title="Subscribe on YouTube">
-<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
+<a href="https://www.youtube.com/@24kgoldnhunter14">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="50"/>
 </a>
 </p>
 
