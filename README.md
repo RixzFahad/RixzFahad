@@ -48,6 +48,10 @@ forecast insights, and visual analytics using structured datasets.
 <img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
 </p>
 
+<a href="https://github.com/rixzfahad/YOUR-WEATHER-REPO">
+🚀 View Repository
+</a>
+
 </td>
 
 <td width="33%" valign="top">
@@ -63,6 +67,10 @@ data insights and reporting metrics.
 <img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
 <img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
 </p>
+
+<a href="https://github.com/rixzfahad/YOUR-HR-REPO">
+🚀 View Repository
+</a>
 
 </td>
 
@@ -80,6 +88,10 @@ showing where requested content appears.
 <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
 <img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
 </p>
+
+<a href="https://github.com/rixzfahad/YOUR-RAG-REPO">
+🚀 View Repository
+</a>
 
 </td>
 
@@ -124,7 +136,7 @@ showing where requested content appears.
 
 <p align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3p4N2ltdnF1eXh3M3k2eTZmOXVjcnk3d3B6bDhzYmJrbjQyZDJpMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
 
 </p>
 
