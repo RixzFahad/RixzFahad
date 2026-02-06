@@ -77,9 +77,8 @@ AI-powered video intelligence module allowing users to ask questions about video
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RixzFahad&theme=tokyonight&hide_border=true"/>
-
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RixzFahad&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <hr>
@@ -92,7 +91,7 @@ AI-powered video intelligence module allowing users to ask questions about video
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE">
+<a href="https://www.instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
