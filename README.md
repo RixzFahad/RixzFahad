@@ -76,7 +76,8 @@ AI-powered video intelligence module allowing users to ask questions about video
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rixzfahad&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=RixzFahad&theme=tokyonight&hide_border=true"/>
+
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=rixzfahad&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
