@@ -48,44 +48,43 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<!-- ✅ Use 100% width so GitHub renders table properly -->
 <table align="center" width="100%">
-  <tr>
+<tr>
 
-    <td width="33%" valign="top" align="center">
-      <h4>🌦️ Weather Forecast Dashboard</h4>
-      <p>
-        Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
-        <img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
-      </p>
-    </td>
+<td width="33%" valign="top" align="center">
+<h4>🌦️ Weather Forecast Dashboard</h4>
+<p>
+Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
+</p>
+</td>
 
-    <td width="33%" valign="top" align="center">
-      <h4>📊 HR Analytics Dashboard</h4>
-      <p>
-        Workforce analytics visualization with structured data insights and reporting metrics.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
-        <img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
-      </p>
-    </td>
+<td width="33%" valign="top" align="center">
+<h4>📊 HR Analytics Dashboard</h4>
+<p>
+Workforce analytics visualization with structured data insights and reporting metrics.
+</p>
+<p>
+<img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
+<img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
+</p>
+</td>
 
-    <td width="33%" valign="top" align="center">
-      <h4>🎥 RAG-Based Video Q&A System</h4>
-      <p>
-        AI-powered video intelligence module allowing users to ask questions and get timestamps instantly.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
-        <img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
-      </p>
-    </td>
+<td width="33%" valign="top" align="center">
+<h4>🎥 RAG-Based Video Q&A System</h4>
+<p>
+AI-powered video intelligence module allowing users to ask questions and get timestamps instantly.
+</p>
+<p>
+<img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
+<img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
+</p>
+</td>
 
-  </tr>
+</tr>
 </table>
 
 <hr>
