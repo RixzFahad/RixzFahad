@@ -21,12 +21,12 @@
 
 <h3 align="center">🛠 Languages & Tools</h3>
 
+<!-- ✅ ONE ROW TOOLS (NO BREAKS) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,figma,react,mysql,postgres,tensorflow,sklearn" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="38"/>
 </p>
 
 <hr>
@@ -48,37 +48,38 @@
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<table align="center">
+<!-- ✅ Use 100% width so GitHub renders table properly -->
+<table align="center" width="100%">
   <tr>
 
-    <td width="33%" valign="top">
-      <h4 align="center">🌦️ Weather Forecast Dashboard</h4>
-      <p align="center">
+    <td width="33%" valign="top" align="center">
+      <h4>🌦️ Weather Forecast Dashboard</h4>
+      <p>
         Interactive dashboard showing real-time weather data, forecast insights, and visual analytics using structured datasets.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/Dashboard-Project-blue?style=flat"/>
         <img src="https://img.shields.io/badge/Data-Visualization-green?style=flat"/>
       </p>
     </td>
 
-    <td width="33%" valign="top">
-      <h4 align="center">📊 HR Analytics Dashboard</h4>
-      <p align="center">
+    <td width="33%" valign="top" align="center">
+      <h4>📊 HR Analytics Dashboard</h4>
+      <p>
         Workforce analytics visualization with structured data insights and reporting metrics.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/HR-Analytics-purple?style=flat"/>
         <img src="https://img.shields.io/badge/Dashboard-Insights-orange?style=flat"/>
       </p>
     </td>
 
-    <td width="33%" valign="top">
-      <h4 align="center">🎥 RAG-Based Video Q&A System</h4>
-      <p align="center">
+    <td width="33%" valign="top" align="center">
+      <h4>🎥 RAG-Based Video Q&A System</h4>
+      <p>
         AI-powered video intelligence module allowing users to ask questions and get timestamps instantly.
       </p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/AI-RAG%20System-red?style=flat"/>
         <img src="https://img.shields.io/badge/LLM-Video%20Search-blue?style=flat"/>
       </p>
@@ -105,11 +106,9 @@
   <a href="https://www.linkedin.com/in/fahad-khan-134a61252">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-
   <a href="https://www.youtube.com/@24kgoldnhunter14">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
