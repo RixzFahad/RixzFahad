@@ -1,7 +1,7 @@
 <h1 align="center">📊 Fahad Khan</h1>
 
 <p align="center">
-  <b>Data Analyst | Business Analytics | Dashboard Developer</b>
+  <b>Data Analyst | Business Analytics </b>
 </p>
 
 <p align="center">
