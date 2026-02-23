@@ -1,4 +1,4 @@
-<h1 align="center">📊 Fahad Khan</h1>
+<h1 align="center">📊 Fahad Khan </h1>
 
 <p align="center">
   <b>Data Analyst | Data Scientist</b>
