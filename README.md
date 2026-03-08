@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a data-focused developer passionate about transforming raw data into dashboards,
+  I'm a data-focused  developer passionate about transforming raw data into dashboards,
   analytics insights, and recruitment intelligence systems.
   I build structured data workflows, analytics dashboards, and reporting automation projects.
 </p>
