@@ -1,245 +1,139 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fahad%20Khan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fahad%20Khan&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Transforming+Raw+Data+into+Actionable+Insights+📊;Power+BI+%7C+SQL+%7C+Python+%7C+DAX+%7C+AI+%7C+Dashboards+🚀;Building+Intelligence+from+Numbers+🧠" alt="Typing SVG" />
-</a>
+<h3>Turning raw data into meaningful insights 📊</h3>
 
-<br/>
-
-<!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=RixzFahad&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  &nbsp;
   <a href="https://www.linkedin.com/in/fahad-khan-134a61252">
     <img src="https://img.shields.io/badge/LinkedIn-Fahad%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  <a href="https://github.com/RixzFahad">
+    <img src="https://img.shields.io/badge/GitHub-RixzFahad-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=flat-square&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square"/>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-> *"Data is the new oil — I refine it into insights."*
+I’m a **Data Analyst** from **Hyderabad, India**, skilled in **Power BI, SQL, Python, and dashboard development**. I enjoy transforming messy datasets into clean, interactive reports and actionable business insights.
 
-I'm a **Data Analyst** based in **Hyderabad, India**, with hands-on experience in **Power BI**, **SQL**, and **Python** for dashboard development, business intelligence reporting, and data-driven decision support. I specialize in turning messy, raw datasets into clean, interactive dashboards and compelling narratives for stakeholders.
-
-- 🎓 **BCA Graduate** — Dr. Ram Manohar Lohia Awadh University (2022–2025)
-- 💼 **Virtual Intern** — Deloitte Australia (Forage), Data Analytics
-- 🏆 **Certified** by TATA & Deloitte via Forage
-- 📊 Passionate about **KPI dashboards**, **EDA**, and **AI-powered analytics**
-- 📫 Reach me: **khanfahad004x@gmail.com** | **+91-7355710686**
+- 🎓 **BCA Graduate** — Dr. Ram Manohar Lohia Awadh University
+- 💼 **Data Analytics Virtual Intern** — Deloitte Australia (Forage)
+- 🏆 Certified through **Deloitte** and **TATA**
+- 📊 Interested in **BI dashboards, EDA, analytics, and AI-powered solutions**
+- 📫 **Email:** khanfahad004x@gmail.com
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-<div align="center">
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-### 💻 Programming & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+**BI & Analytics**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### 📊 BI & Analytics Tools
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge&logo=alteryx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🐍 Python Libraries
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-</div>
+**Libraries & Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🔷 Data Analytics Virtual Intern — Deloitte Australia *(Forage)*
+### Data Analytics Virtual Intern — Deloitte Australia (Forage)
 **Jun 2025 | Virtual**
 
-| Task | Impact |
-|------|--------|
-| 📌 Executed EDA across 3+ business datasets | Identified key trends, anomalies & patterns for strategic decisions |
-| 📌 Engineered KPI dashboards in Power BI | Translated complex metrics into executive-ready visual reports |
-| 📌 Applied forensic analytics for financial irregularities | Reduced root-cause identification time significantly |
-| 📌 Delivered 4 structured project presentations | Met all stakeholder requirements and quality benchmarks on time |
+- Performed **EDA** on business datasets to identify trends and patterns
+- Built **Power BI dashboards** for business reporting
+- Applied **forensic analytics** to detect irregularities
+- Presented structured insights in a business-focused format
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 1) Weather Forecast Dashboard
+**Power BI | REST API | DAX**
 
-### 🌦️ Weather Forecast Dashboard
-**Power BI + REST APIs** | *Jun – Jul 2025*
+- Integrated weather and AQI APIs
+- Built dynamic DAX measures
+- Added drill-down analysis by city and time
+- Created trend-based dashboard for quick insights
 
-> Real-time meteorological intelligence at a glance.
+### 2) RAG-Based AI Teaching Assistant
+**Python | OpenAI | LLM**
 
-- 🔗 Integrated **2+ external REST APIs** for weather forecast & AQI metrics
-- ⚡ Authored **10+ dynamic DAX measures** for time-series comparisons
-- 🔍 Enabled drill-down analysis by **city and time interval**
-- 📊 Delivered rolling-window trend visualizations for decision support
+- Processed 50+ educational videos
+- Built transcript chunking and retrieval pipeline
+- Used similarity search for top relevant results
+- Reduced manual topic search time significantly
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=flat)
-![REST API](https://img.shields.io/badge/REST-API-green?style=flat)
+### 3) Business Ledger Analytics Dashboard
+**Power BI | Python | SQL**
 
-</td>
-<td width="50%" valign="top">
+- Analyzed 21,000+ transactions
+- Cleaned ledger and GST-related data
+- Built dashboard for inflow, outflow, receivables, and trends
 
-### 🤖 RAG-Based AI Teaching Assistant
-**Python + OpenAI + LLM** | *2025*
+### 4) HR Analytics Dashboard
+**Power BI**
 
-> AI-powered knowledge retrieval over 50+ educational videos.
-
-- 🎙️ Deployed **OpenAI Whisper** transcription on 50+ videos
-- 🧩 Segmented transcripts into **2,000+ semantic chunks** with vector embeddings
-- 🔍 Implemented **cosine similarity search** returning top-5 ranked matches
-- ⚡ Reduced manual topic search time by **80%**
-- 🧠 Integrated LLM prompting pipeline for context-driven responses
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-red?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-Whisper-412991?style=flat&logo=openai&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📒 Business Ledger Analytics Dashboard
-**Power BI + Python + SQL** | *2026*
-
-> Real-world financial intelligence from 21,000+ transactions.
-
-- 🏦 Analyzed **21,000+ transactions** across 1,200+ business partners
-- 🧹 Cleaned & normalized GST fields, ledger entries, and transaction types using **Python + SQL**
-- 📊 Built interactive Power BI dashboard tracking **inflow vs outflow**, receivables, and partner trends
-- 💡 Covered receivables, payables, and bank records comprehensively
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Analytics-4479A1?style=flat&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 HR Analytics Dashboard
-**Power BI** | *Ongoing*
-
-> Workforce intelligence and reporting automation.
-
-- 👥 Workforce analytics with structured data insights and KPI metrics
-- 📊 Reporting dashboards for HR decision support
-- 🔄 Automation of recurring HR reports
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![HR Analytics](https://img.shields.io/badge/HR-Analytics-purple?style=flat)
-![Automation](https://img.shields.io/badge/Reporting-Automation-orange?style=flat)
-
-</td>
-</tr>
-</table>
+- Developed HR KPI reporting
+- Built workforce analytics visuals
+- Improved recurring reporting workflow
 
 ---
 
-## 🏅 Certifications
+## Certifications
+
+- **Data Visualisation: Empowering Business with Effective Insights** — TATA (Forage)
+- **Cyber Job Simulation** — Deloitte (Forage)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-| 🏆 Certification | 🏢 Issuer | 📅 Date |
-|---|---|---|
-| Data Visualisation: Empowering Business with Effective Insights | TATA (Forage) | Sep 2025 |
-| Cyber Job Simulation | Deloitte (Forage) | Jun 2025 |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RixzFahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RixzFahad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RixzFahad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RixzFahad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RixzFahad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RixzFahad&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/fahad-khan-134a61252">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:khanfahad004x@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-khanfahad004x-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="https://github.com/RixzFahad">
-    <img src="https://img.shields.io/badge/GitHub-RixzFahad-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p>
-  <a href="https://www.youtube.com/@24kgoldnhunter14">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+---
 
-<br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding gif"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
