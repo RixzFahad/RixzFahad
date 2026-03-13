@@ -216,31 +216,6 @@ contact    : khanfahad004x@gmail.com | +91-7355710686
 
 ---
 
-<!-- PROJECT 4 -->
-<details open>
-<summary><b>📈 HR Analytics Dashboard &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Ongoing</b></summary>
-<br/>
-
-> **Workforce intelligence — transforming HR data into strategic hiring and retention insights.**
-
-<div align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/HR%20Analytics-7B2D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reporting-Automation-FF8C00?style=for-the-badge"/>
-</div>
-
-<br/>
-
-```
-👥 Focus      →  Workforce analytics · KPI metrics · Retention trends
-📊 Output     →  Executive HR dashboards for decision support
-🔄 Automation →  Recurring report automation reducing manual effort
-```
-
-</details>
-
----
-
 <!-- ░░░ CERTIFICATIONS ░░░ -->
 ## 🏅 Certifications
 
