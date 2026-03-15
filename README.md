@@ -11,7 +11,7 @@
 <!-- ░░░ VOICE WELCOME SECTION ░░░ -->
 ### 🎙️ &nbsp;Click to Hear a Welcome from Fahad
 
-> *Record your voice on [Vocaroo.com](https://vocaroo.com), then replace the link in the badge below with your recording URL.*
+> *Record your voice on [Vocaroo.com][(https://vocaroo.com](https://voca.ro/12zc8L8hG82E)), then replace the link in the badge below with your recording URL.*
 
 [![🔊 Click to Hear Fahad's Welcome](https://img.shields.io/badge/🔊%20Voice%20Welcome-Click%20to%20Listen-0e75b6?style=for-the-badge&logoColor=white)](https://vocaroo.com)
 
