@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER — GoT fire & ice -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=260&section=header&text=FAHAD%2 0KHAN&fontSize=85&fontColor=d4af37&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=62&descSize=22&descColor=c9b99a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=260&section=header&text=FAHAD%20KHAN&fontSize=85&fontColor=d4af37&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=62&descSize=22&descColor=c9b99a" width="100%"/>
 
 <!-- GoT house words typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=MedievalSharp&weight=700&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=60&lines=⚔️+Data+is+the+new+weapon+of+the+realm;🐉+Power+BI+%7C+SQL+%7C+Python+%7C+DAX+%7C+AI;🔥+Building+Intelligence+from+Numbers;👑+Open+to+Data+Analyst+Roles!" alt="Typing SVG"/>
