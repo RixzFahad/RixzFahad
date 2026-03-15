@@ -8,6 +8,15 @@
 
 <br/>
 
+<!-- ░░░ VOICE WELCOME SECTION ░░░ -->
+### 🎙️ &nbsp;Click to Hear a Welcome from Fahad
+
+> *Record your voice on [Vocaroo.com](https://vocaroo.com), then replace the link in the badge below with your recording URL.*
+
+[![🔊 Click to Hear Fahad's Welcome](https://img.shields.io/badge/🔊%20Voice%20Welcome-Click%20to%20Listen-0e75b6?style=for-the-badge&logoColor=white)](https://vocaroo.com)
+
+<br/>
+
 <!-- ░░░ BADGE ROW ░░░ -->
 <a href="https://www.linkedin.com/in/fahad-khan-134a61252"><img src="https://img.shields.io/badge/LinkedIn-Fahad%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
