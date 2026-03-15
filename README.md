@@ -8,6 +8,11 @@
 
 <br/>
 
+<!-- ░░░ VOICE WELCOME ░░░ -->
+[![▶️ Click to Play — Voice Welcome from Fahad](https://img.shields.io/badge/▶%20Play%20Voice%20Welcome-Click%20to%20Listen-0e75b6?style=for-the-badge&logo=soundcloud&logoColor=white)](https://voca.ro/12zc8L8hG82E)
+
+<br/>
+
 <!-- ░░░ BADGE ROW ░░░ -->
 <a href="https://www.linkedin.com/in/fahad-khan-134a61252"><img src="https://img.shields.io/badge/LinkedIn-Fahad%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
