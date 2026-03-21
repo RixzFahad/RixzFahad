@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Fahad%20Khan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=aad4f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradients &customColorList=6,11,20&height=160&section=header&text=Fahad%20Khan&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Builder&descAlignY=60&descSize=16&descColor=aad4f5" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=42&lines=%F0%9F%93%8A+Transforming+Raw+Data+into+Insights;%F0%9F%9A%80+Power+BI+%7C+SQL+%7C+Python+%7C+AI;%F0%9F%A7%A0+Building+Intelligence+from+Numbers;%F0%9F%92%BC+Open+to+Data+Analyst+Roles!" alt="Typing SVG"/>
 
