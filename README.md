@@ -1,241 +1,110 @@
-<!-- ═══════════════════════════════════════════════════════════════════ HEADER ════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:1a1a2e&height=220&section=header&text=Fahad%20Khan&fontSize=58&fontColor=58a6ff&fontAlignY=36&desc=Data%20Analyst%20%E2%80%A2%20BI%20Developer%20%E2%80%A2%20AI%20Builder&descColor=8b949e&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
+## Improvement Notes
 
-<div align="center">
+**What changed and why:**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Turning+Raw+Data+Into+Business+Intelligence;Power+BI+%C2%B7+Python+%C2%B7+SQL+%C2%B7+DAX+%C2%B7+Excel;Building+Dashboards+That+Drive+Decisions;Designing+AI+Systems+for+Real-World+Impact;Open+to+Data+%2F+BI+%2F+Analytics+%2F+AI+Roles)](https://git.io/typing-svg)
+| Element | Old approach | Upgraded approach | Reason |
+|---|---|---|---|
+| Header | Generic capsule banner | Dark gradient `0d1117→0a2540→1a1a2e` with `fadeIn` | Premium dark-tech aesthetic, brand consistency |
+| Typing SVG | Basic lines | JetBrains Mono, weight 600, 5 curated story-lines | Developer font signals technical seriousness |
+| Bio | Paragraph dump | 3-line power statement + 2-column scannable table | Recruiter reads in 5s, not 30s |
+| Skills | Flat badge list | 5 logical categories (BI / Languages / Ecosystem / AI / Tools) | Shows depth and specialization, not a random dump |
+| Projects | None or basic | GitHub repo pin cards, themed to match dark palette | Visual, clickable, GitHub-native |
+| Stats | Single card | Stats + Languages + Streak + Activity Graph | Tells a fuller story about actual coding activity |
+| Experience | One-liner | Dedicated section with context + badge | Deloitte is a signal — give it weight |
+| Personality | None | `status = {...}` Python dict | Memorable, shows technical personality, not cringe |
+| CTA | None | Clean targeted "Let's Connect" section | Converts a visitor into a contact |
 
-<br/>
+**Placeholders to replace before publishing:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
+- `YOUR_USERNAME` → your GitHub username (e.g., `fahadkhan`)
+- `YOUR_LINKEDIN_URL` → full LinkedIn profile URL
+- `YOUR_EMAIL` → your email address
+- `YOUR_PORTFOLIO_URL` → personal site/portfolio URL (use `#` if none yet)
+- `YOUR_REPO_1` through `YOUR_REPO_4` → your actual repo names
 
-</div>
+**Recommended projects to pin** (if not yet built, these are worth creating):
+- A Power BI dashboard project with screenshots
+- A Python EDA notebook (any public dataset)
+- A RAG chatbot or LLM tool
+- A predictive analytics model (churn, sales, etc.)
 
-<br/>
+**External services used** (all free, all stable):
+
+- `capsule-render.vercel.app` — banners
+- `readme-typing-svg.demolab.com` — typing animation
+- `komarev.com/ghpvc/` — profile view counter
+- `github-readme-stats.vercel.app` — stats cards
+- `streak-stats.demolab.com` — streak (use this, not the herokuapp version)
+- `github-readme-activity-graph.vercel.app` — activity graph
+- `img.shields.io` — all tech badges
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════ ABOUT ════ -->
+## Weekly Update Strategy
 
-## About Me
+**Week 1 — Foundation**
+- Replace all placeholders (username, email, LinkedIn)
+- Verify all cards load at your GitHub profile URL
+- Pin 3–4 real repositories (ensure each has a proper description and README)
+- Check the profile in both light and dark GitHub themes
 
-> I'm a **Data Analyst & BI Developer** from Hyderabad, India — turning complex, messy data into clear business intelligence and actionable decisions.
-> My toolkit spans Power BI, Python, SQL, and DAX for analytics, and I'm equally at home building AI-powered systems using RAG architecture and LLMs.
-> Backed by Deloitte Forage experience and a sharp focus on delivering intelligence that drives real business outcomes — not just reports.
+**Week 2 — Snake + Project Quality**
+- Set up the GitHub Actions snake animation (see commented-out section in README)
+- Ensure each pinned repo has a screenshot or demo GIF in its README
+- Add a `OPEN_TO_WORK` badge if actively job-searching:
+  `![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-2025-brightgreen?style=flat-square)`
 
-<br/>
+**Week 3 — Content Refresh**
+- Update the `status = {...}` block with what you're actually building
+- Add any new tools learned (e.g., `dbt`, `Streamlit`, `Airflow`)
+- Cross-check the "Snapshot" bullet list — still accurate?
 
-<table>
-<tr>
-<td width="55%">
+**Week 4 — Projects & Stats Audit**
+- Replace any placeholder repo pins with real projects
+- Review the Top Languages card — does it reflect your actual work?
+- Add a `Certifications` or `Achievements` section if you completed a course
 
-**What I Do**
-- Design executive-level Power BI dashboards with advanced DAX and KPI models
-- Build end-to-end Python analytics pipelines: raw data → EDA → actionable insights
-- Architect RAG pipelines and LLM-powered decision-support tools
-- Translate complex business questions into data-driven answers at scale
+**Monthly (Evergreen)**
+- Rotate the tagline in the typing SVG — swap one line to keep it fresh
+- Update the `currently` dict to reflect your real current work
+- Add newly completed projects to featured section (remove oldest if over 4)
 
-</td>
-<td width="45%">
-
-**Snapshot**
-- 📍 Hyderabad, India
-- 🎓 BCA · Class of 2025
-- 💼 Deloitte Australia · Forage Analytics Simulation
-- 📊 Power BI · Python · SQL · DAX · Excel
-- 🤖 RAG Pipelines · LangChain · OpenAI
-- 🎯 Seeking: Data / BI / Analytics / AI roles
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ WHAT I BUILD ════ -->
-
-## What I Build
-
-<br/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-<b>📊 Business Intelligence</b>
-<br/><br/>
-Power BI · DAX · Power Query<br/>
-KPI dashboards · Trend analysis<br/>
-Executive data storytelling
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<b>🐍 Data Analytics</b>
-<br/><br/>
-Python · Pandas · SQL<br/>
-EDA · Statistical modeling<br/>
-Automated reporting pipelines
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<b>🤖 AI Systems</b>
-<br/><br/>
-RAG pipelines · LLM integration<br/>
-Semantic search · Vector DBs<br/>
-AI-augmented analytics
-<br/><br/>
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
+**What to keep stable** (don't change these often — they are your brand):
+- Color scheme (`#58a6ff` blue, `#8b949e` muted, `#a371f7` purple accent)
+- Name and role title in the header banner
+- Section structure and order
+- Font (JetBrains Mono)
+- The Deming quote (unless you find a better one)
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ TECH STACK ════ -->
+## Optional Advanced Enhancements
 
-## Tech Stack
+**Tier 1 — Quick wins (under 30 min each)**
 
-<br/>
+- **Open to Work ribbon** — Add to the top of your profile photo via GitHub's built-in feature, not the README. It renders as a green banner on your avatar.
+- **Wakatime coding stats** — Tracks real coding time per language. Requires installing the Wakatime plugin in VS Code. Then add:
+  `https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark`
+- **Star count badges on projects** — Add `![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square&color=58a6ff)` inside project descriptions
 
-**BI & Analytics**
+**Tier 2 — Medium effort (1–3 hours)**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- **Contribution snake animation** — Visual of your GitHub contribution grid, animated as a snake eating cells. Requires creating `.github/workflows/snake.yml` with the `Platane/snk` action. Reference URL is already commented out in the README above.
+- **Custom banner image** — Design a premium dark header in Figma/Canva (1200×300px), upload it to your repo, and replace the capsule-render banner. Far more unique and memorable.
+- **Project cards with preview images** — Replace repo pin cards with a custom HTML table that includes a dashboard screenshot or demo GIF. Far more impactful for BI work where visuals are the product.
 
-**Languages & Databases**
+**Tier 3 — High effort, high impact**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- **GitHub Metrics SVG** — The [`lowlighter/metrics`](https://github.com/lowlighter/metrics) GitHub Action generates premium infographic SVGs: language breakdowns, contribution heatmaps, achievements, repo insights. Significantly more visual than standard stat cards.
+- **Blog post integration** — If you write on Medium, Dev.to, or Hashnode: [`gautamkrishnar/blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) auto-pulls your latest 5 posts into the README. Strong signal for recruiters that you can explain data concepts in writing.
+- **Streamlit or Vercel-hosted portfolio** — Build a one-page data portfolio site with embedded Power BI screenshots, project demos, and a contact form. Link it from the Portfolio badge. A live portfolio URL in your README turns a passive reader into an active evaluator.
 
-**Python Ecosystem**
+**Badges that add signal, not noise:**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**AI & LLM Stack**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-009EDF?style=for-the-badge&logo=meta&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ FEATURED PROJECTS ════ -->
-
-## Featured Projects
-
-<!-- Replace YOUR_USERNAME and YOUR_REPO_N with your actual GitHub username and repo names -->
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<!-- ═════════════════════════════════════════════════════════ GITHUB ANALYTICS ════ -->
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
-<br/><br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff&sideLabels=8b949e"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=0a2540&point=58a6ff&area=true&hide_border=true"/>
-
-</div>
-
-<!--
-  ── CONTRIBUTION SNAKE (Optional — requires a GitHub Action) ──────────────
-  1. Create .github/workflows/snake.yml in this repo
-  2. Configure the Platane/snk action to output to the "output" branch
-  3. Uncomment the two lines below:
-
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
--->
-
-<br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════ EXPERIENCE ════ -->
-
-## Experience
-
-![Deloitte](https://img.shields.io/badge/Deloitte-Forage%20Virtual%20Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
-
-> **Deloitte Australia · Data Analytics Virtual Simulation** · Forage
-> Performed forensic data analysis, built structured analytical models, and delivered data-backed business recommendations — simulating a real Deloitte analyst engagement across client data scenarios.
-
-<br/>
-
----
-
-<!-- ═════════════════════════════════════════════════════════════════ CURRENTLY ════ -->
-
-## Currently
-
-```python
-status = {
-    "building":   ["AI-powered analytics dashboard", "RAG pipeline for business Q&A"],
-    "learning":   ["Advanced DAX patterns & Power Query M", "LLM orchestration with LangChain"],
-    "refining":   ["SQL query optimization", "Predictive modeling with scikit-learn"],
-    "open_to":    ["Data Analyst", "BI Developer", "Analytics Engineer", "AI Builder"],
-    "available":  True,
-}
+```markdown
+<!-- Only add badges you can back up with actual work -->
+![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=flat-square)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat-square&logo=python)
+![BCA Graduate](https://img.shields.io/badge/BCA-2025-0a2540?style=flat-square)
