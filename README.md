@@ -8,52 +8,52 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/RixzFahad"><img src="https://img.shields.io/badge/GitHub-RixzFahad-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=RixzFahad&color=58a6ff&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-> *"Data is the new oil — I refine it into decisions."*
+> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
-I'm a **Data Analyst & BI Developer** from **Hyderabad, India**, focused on turning messy data into clear, actionable business intelligence.  
-I build Power BI dashboards, write advanced DAX, run Python analytics pipelines, and design AI-powered systems using RAG architecture and LLMs.
+I'm a **Data Analyst & BI Developer** from **Hyderabad, India** — currently pursuing my BCA (2022–2025).  
+I turn raw, messy data into clear dashboards, meaningful insights, and real decisions.
 
-- 📊 Power BI · SQL · Python · DAX · Excel
-- 🤖 RAG Pipelines · LLM Integration · AI Systems
-- 📈 KPI dashboards · EDA · Predictive Analytics
-- ⚡ Real-world data → measurable business outcomes
+My work spans **Power BI reporting**, **SQL & Python analytics**, and **AI systems** built with RAG architecture and LLMs. I've completed a virtual analytics simulation at **Deloitte Australia (Forage)**, where I performed forensic data analysis and built structured analytical models.
 
 ```yaml
 Name       : Fahad Khan
 Role       : Data Analyst | BI Developer | AI Builder
-Education  : BCA (2022–2025)
-Experience : Deloitte Australia (Forage)
-Focus      : Dashboards · EDA · Predictive Analytics · AI Systems
+Education  : BCA — 2022–2025
+Experience : Deloitte Australia · Data Analytics Virtual Simulation (Forage)
 Location   : Hyderabad, India
-Status     : Open to Data / BI / Analytics / AI roles
+Status     : Open to Data · BI · Analytics · AI roles
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**BI & Analytics**  
+**BI & Analytics**
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Languages & Databases**  
+**Languages & Databases**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Python Ecosystem**  
+**Python Ecosystem**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -61,18 +61,32 @@ Status     : Open to Data / BI / Analytics / AI roles
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**AI & LLM Stack**  
+**AI & LLM Stack**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-009EDF?style=for-the-badge&logo=meta&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Tools & Platforms**  
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 💼 Experience
+
+![Deloitte](https://img.shields.io/badge/Deloitte-Forage%20Virtual%20Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+
+**Deloitte Australia · Data Analytics Virtual Simulation** · Forage
+
+- Performed **forensic data analysis** on business datasets to identify anomalies and trends
+- Built **structured analytical models** to support data-backed business recommendations
+- Simulated a real Deloitte analyst engagement end-to-end — from data cleaning to stakeholder-ready output
 
 ---
 
@@ -115,32 +129,17 @@ Status     : Open to Data / BI / Analytics / AI roles
 
 ---
 
-## 💼 Experience
-
-![Deloitte](https://img.shields.io/badge/Deloitte-Forage%20Virtual%20Experience-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
-
-> **Deloitte Australia · Data Analytics Virtual Simulation** · Forage  
-> Performed forensic data analysis, built structured analytical models, and delivered data-backed business recommendations — simulating a real Deloitte analyst engagement.
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
-  <b>Open to Data Analyst · BI Developer · Analytics Engineer · AI roles</b>
+  <b>Open to Data Analyst · BI Developer · Analytics Engineer · AI Roles</b>
   <br/><br/>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </p>
 
 <!-- FOOTER -->
