@@ -1,70 +1,43 @@
-# Hey there! 👋 I'm Fahad Khan
+<!-- ========================= HEADER ========================= -->
 
-<div align="center">
-  <h3>📊 Data Analyst | 📈 BI Developer | 🤖 AI Builder</h3>
-  <p>
-    <em>Turning messy data into stories that matter</em>
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Fahad%20Khan&fontSize=54&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descSize=18&descAlignY=74&descColor=d9d9d9" />
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Turning+raw+data+into+actionable+business+insights;Building+dashboards+that+support+real+decisions;Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+DAX+%C2%B7+Excel;Designing+AI-powered+systems+for+real-world+problems;Open+to+Data+Analyst+%2F+BI+%2F+Analytics+roles" />
+</p>
 
-## 🎯 What I Do
-
-I help teams **understand their data** and **make better decisions**. Whether it's building interactive dashboards, writing queries, automating workflows, or exploring AI solutions—I'm here to make data work for you.
-
-Think of me as someone who speaks both "data" and "business." I don't just show numbers; I show *what they mean*.
-
----
-
-## 🛠️ My Toolbox
-
-```
-📊 Power BI          │ Dashboards & Reports
-🗄️  SQL              │ Data Extraction & Analysis  
-🐍 Python            │ Automation & Data Processing
-✨ DAX & M           │ Advanced Calculations
-📋 Excel             │ Analysis & Visualization
-⚙️  Automation       │ Workflows & Pipelines
-🤖 AI Systems        │ RAG, LLMs, Smart Solutions
-```
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/RixzFahad">
+    <img src="https://img.shields.io/badge/GitHub-RixzFahad-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RixzFahad&color=58a6ff&style=flat-square&label=Profile+Views"/>
+</p>
 
 ---
 
-## 🌟 About Me
+# 👋 About Me
 
-**Fresh eyes, real impact.**
+I’m **Fahad Khan**, a **Data Analyst fresher from Hyderabad, India**, passionate about transforming raw and messy data into clear insights, interactive dashboards, and practical business solutions.
 
-I'm a BCA graduate from Hyderabad who genuinely loves working with data. Not the boring kind—the *useful* kind. The kind that helps businesses grow, teams decide better, and everyone gets excited about insights.
+I enjoy working at the intersection of **analytics, reporting, business understanding, and AI-assisted problem solving**. My focus is not just to analyze data, but to make it **useful, understandable, and decision-ready**.
 
-My sweet spot? Taking complex data, understanding what it's trying to say, and presenting it in a way that even non-technical people get it immediately.
+I work with tools like **Power BI, SQL, Python, Excel, and DAX**, and I also explore **AI systems, RAG pipelines, and automation workflows** to build smarter data solutions.
 
----
-
-## 📍 Where to Find Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RixzFahad)
-
-</div>
-
----
-
-## 💡 Let's Connect
-
-- 💼 **Looking for**: Data Analyst | BI Developer | Analytics roles | Internships
-- 🧠 **Interested in**: Real-world problems, learning new tools, building cool dashboards
-- 📧 **Reach out if**: You have data, questions, or just want to chat about analytics
-
----
-
-<div align="center">
-  
-**Made with ❤️ | Always learning, always growing** 📈
-
-![Views](https://komarev.com/ghpvc/?username=RixzFahad&color=58a6ff&style=flat-square)
-
-</div>
+```yaml
+Name       : Fahad Khan
+Role       : Data Analyst | BI Developer | AI Builder
+Education  : Bachelor of Computer Applications (BCA)
+Location   : Hyderabad, India
+Focus      : Analytics, Dashboards, BI Reporting, Automation, AI Systems
+Status     : Open to Data Analyst, BI, Analytics, and Internship roles
