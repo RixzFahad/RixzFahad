@@ -26,10 +26,6 @@ Raw Data ──→ 🧠 Analysis ──→ 💡 Insights ──→ 📈 Action
 
 ## 🚀 The Arsenal
 
----
-
-## 🚀 The Arsenal
-
 <div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -66,16 +62,6 @@ I turn:
 - 📉 **Raw numbers** → Beautiful dashboards  
 - ⚙️ **Manual work** → Smart automation
 - ❓ **Questions** → Actionable answers
-
----
-
-## 💬 What People Say I Do
-
-> *"The guy who makes dashboards that actually make sense"*
-
-> *"Speaks both SQL and English fluently"*
-
-> *"Turns chaos into clarity"*
 
 ---
 
