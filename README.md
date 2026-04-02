@@ -1,43 +1,113 @@
-<!-- ========================= HEADER ========================= -->
-
+<!-- ========================= ANIMATED HEADER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Fahad%20Khan&fontSize=54&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descSize=18&descAlignY=74&descColor=d9d9d9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descSize=20&descAlignY=75&descColor=FFD700" />
 </p>
 
+<!-- ========================= ANIMATED TAGLINE ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Turning+raw+data+into+actionable+business+insights;Building+dashboards+that+support+real+decisions;Power+BI+%C2%B7+SQL+%C2%B7+Python+%C2%B7+DAX+%C2%B7+Excel;Designing+AI-powered+systems+for+real-world+problems;Open+to+Data+Analyst+%2F+BI+%2F+Analytics+roles" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/RixzFahad">
-    <img src="https://img.shields.io/badge/GitHub-RixzFahad-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RixzFahad&color=58a6ff&style=flat-square&label=Profile+Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=1000&lines=Turning%20messy%20data%20into%20crystal%20clear%20insights%20%F0%9F%93%8A;Building%20dashboards%20that%20actually%20matter%20%F0%9F%93%88;Power%20BI%20%E2%9C%A8%20SQL%20%E2%9C%A8%20Python%20%E2%9C%A8%20DAX;Making%20data%20speak%20the%20language%20of%20business%20%F0%9F%A4%96" />
 </p>
 
 ---
 
-# 👋 About Me
+---
 
-I’m **Fahad Khan**, a **Data Analyst fresher from Hyderabad, India**, passionate about transforming raw and messy data into clear insights, interactive dashboards, and practical business solutions.
+## 🎯 What I Actually Do
 
-I enjoy working at the intersection of **analytics, reporting, business understanding, and AI-assisted problem solving**. My focus is not just to analyze data, but to make it **useful, understandable, and decision-ready**.
+I take **raw, chaotic data** and transform it into something beautiful. 📊✨
 
-I work with tools like **Power BI, SQL, Python, Excel, and DAX**, and I also explore **AI systems, RAG pipelines, and automation workflows** to build smarter data solutions.
+```
+Raw Data ──→ 🧠 Analysis ──→ 💡 Insights ──→ 📈 Action
+```
 
-```yaml
-Name       : Fahad Khan
-Role       : Data Analyst | BI Developer | AI Builder
-Education  : Bachelor of Computer Applications (BCA)
-Location   : Hyderabad, India
-Focus      : Analytics, Dashboards, BI Reporting, Automation, AI Systems
-Status     : Open to Data Analyst, BI, Analytics, and Internship roles
+**In plain English:** I help people understand their numbers and make smarter decisions.
+
+---
+
+## 🚀 The Arsenal
+
+---
+
+## 🚀 The Arsenal
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-012456?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">📊<br><b>Dashboards</b><br>Power BI, Tableau</td>
+    <td align="center">🗄️<br><b>Databases</b><br>SQL, Data Extraction</td>
+    <td align="center">🐍<br><b>Automation</b><br>Python, Pandas, Scripts</td>
+  </tr>
+  <tr>
+    <td align="center">✨<br><b>Calculations</b><br>DAX, Advanced Formulas</td>
+    <td align="center">📈<br><b>Analytics</b><br>Statistical Analysis</td>
+    <td align="center">🤖<br><b>AI & ML</b><br>RAG, LLMs, Automation</td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Who I Am
+
+> **Fresh graduate from Hyderabad who actually *gets* data.** Not just the boring spreadsheet kind. The kind that tells stories. The kind that helps people grow.
+
+I don't just analyze data—I **translate** it. 
+
+I turn:
+- 🔴 **Confusion** → Crystal-clear insights
+- 📉 **Raw numbers** → Beautiful dashboards  
+- ⚙️ **Manual work** → Smart automation
+- ❓ **Questions** → Actionable answers
+
+---
+
+## 💬 What People Say I Do
+
+> *"The guy who makes dashboards that actually make sense"*
+
+> *"Speaks both SQL and English fluently"*
+
+> *"Turns chaos into clarity"*
+
+---
+
+## 🔗 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RixzFahad)
+
+</div>
+
+---
+
+## 🎯 I'm Looking For
+
+✅ **Data Analyst** roles where I can make an impact  
+✅ **BI Developer** positions to build cool dashboards  
+✅ **Analytics Internships** to grow & learn  
+✅ **Challenging projects** with real-world data  
+
+---
+
+<div align="center">
+
+### 💡 *Always exploring. Always learning. Always building.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=RixzFahad&color=FF6B9D&style=for-the-badge)
+
+**Made with ❤️ | Based in 🇮🇳 Hyderabad**
+
+</div>
