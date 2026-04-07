@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 What I Actually Do
+## 🎯 What I Actually Do's
 
 I take **raw, chaotic data** and transform it into something beautiful. 📊✨
 
