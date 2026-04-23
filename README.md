@@ -1,5 +1,6 @@
 <!-- ========================= ANIMATED HEADER'S ========================= -->
-<p align="center">
+<p align="center"> 
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20AI%20Builder&descSize=20&descAlignY=75&descColor=FFD700" /> 
 
   
