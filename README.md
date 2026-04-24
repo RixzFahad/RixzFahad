@@ -1,11 +1,11 @@
 <!-- ========================= ANIMATED HEADER ========================= -->
 <p align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fahad%20Khan&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Python%20Enthusiast&descAlignY=60&descAlign=60" alt="Header" />
 </p>
 
 <!-- ========================= ANIMATED TAGLINE ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=1000&lines=Turning%20messy%20data%20into%20crystal%20clear%20insights;Building%20dashboards%20that%20tell%20stories;Making%20data%20decisions%20easy" alt="typing-animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=1000&lines=Turning%20messy%20data%20into%20crystal%20clear%20insights%20✨;Building%20dashboards%20that%20tell%20stories%20📊;Making%20decisions%20data-driven%20🎯" alt="Typing Animation" />
 </p>
 
 ---
@@ -41,35 +41,72 @@ Raw Data ──→ 🧠 Analysis ──→ 💡 Insights ──→ 📈 Action
 
 </div>
 
-### What I Build
+---
 
-<table align="center">
+## 🎨 What I Build - *The Creative Section*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" alt="Data Animation" />
+</div>
+
+### 🌟 Interactive Cards
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="180px">
-      <h4>📊 Dashboards</h4>
-      <p>Power BI<br>Tableau<br>Interactive Reports</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>📊 Dashboard Architect</h3>
+        <img src="https://media.giphy.com/media/l0HlNaQ9sDQOxdajJO/giphy.gif" width="120px" alt="Dashboard" />
+        <p><strong>Power BI</strong> • Tableau • Interactive Reports</p>
+        <p style="font-size: 12px; color: #ddd;">Converting complex data into stunning visual stories</p>
+      </div>
     </td>
-    <td align="center" width="180px">
-      <h4>🗄️ Databases</h4>
-      <p>SQL Queries<br>Data Extraction<br>ETL Pipelines</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>🗄️ Database Wizard</h3>
+        <img src="https://media.giphy.com/media/5Tcw6V0UB0vaU/giphy.gif" width="120px" alt="Database" />
+        <p><strong>SQL Queries</strong> • Data Extraction • ETL Pipelines</p>
+        <p style="font-size: 12px; color: #fff;">Crafting efficient data workflows & pipelines</p>
+      </div>
     </td>
-    <td align="center" width="180px">
-      <h4>🐍 Automation</h4>
-      <p>Python Scripts<br>Pandas<br>Data Processing</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>🐍 Automation Expert</h3>
+        <img src="https://media.giphy.com/media/3ohzdKdCUmf7UQIGdG/giphy.gif" width="120px" alt="Python" />
+        <p><strong>Python Scripts</strong> • Pandas • Data Processing</p>
+        <p style="font-size: 12px; color: #fff;">Automating tedious tasks & scaling workflows</p>
+      </div>
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="180px">
-      <h4>✨ Advanced Analysis</h4>
-      <p>DAX Formulas<br>Statistical Models<br>Complex Calculations</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>✨ Advanced Analysis</h3>
+        <img src="https://media.giphy.com/media/26uf1EUQtxLv1l9la/giphy.gif" width="120px" alt="Analysis" />
+        <p><strong>DAX Formulas</strong> • Statistical Models • Complex Calculations</p>
+        <p style="font-size: 12px; color: #333;">Deep-diving into numbers with precision</p>
+      </div>
     </td>
-    <td align="center" width="180px">
-      <h4>📈 Analytics</h4>
-      <p>Trend Analysis<br>KPI Tracking<br>Data Visualization</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>📈 Analytics Engine</h3>
+        <img src="https://media.giphy.com/media/A6aJx6sOQgZQPkwsRN/giphy.gif" width="120px" alt="Analytics" />
+        <p><strong>Trend Analysis</strong> • KPI Tracking • Data Visualization</p>
+        <p style="font-size: 12px; color: #fff;">Tracking patterns & measuring what matters</p>
+      </div>
     </td>
-    <td align="center" width="180px">
-      <h4>🤖 AI & ML</h4>
-      <p>RAG Systems<br>LLMs<br>Smart Automation</p>
+    <td align="center" width="33%">
+      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 30px; border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+        <h3>🤖 AI & ML Master</h3>
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120px" alt="AI" />
+        <p><strong>RAG Systems</strong> • LLMs • Smart Automation</p>
+        <p style="font-size: 12px; color: #333;">Building intelligent solutions for tomorrow</p>
+      </div>
     </td>
   </tr>
 </table>
