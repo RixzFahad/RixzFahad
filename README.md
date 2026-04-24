@@ -1,79 +1,71 @@
-<h1 align="center">Hey 👋, I'm Rixz Fahad</h1>
-<h3 align="center">🚀 Data Science Learner | AI Creator | Building in Public</h3>
-
+<!-- 🔥 HEADER BANNER -->
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rixz%20Fahad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+
+<h3 align="center">🚀 Data Science • AI • Content Creator</h3>
 
 ---
 
+<!-- 🧠 ABOUT -->
 ## 🧠 About Me
 
-- 🎯 Currently learning **Data Science & Machine Learning**
-- 📊 Building **Power BI Dashboards & Real-world Projects**
-- 🧪 Exploring **AI + Content Creation**
-- 🎥 Creator at **PewPewPotato (YouTube)**
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎯 Learning **Data Science & Machine Learning**
+- 📊 Building **Power BI Dashboards**
+- 🎬 Running **PewPewPotato (YouTube)**
+- 🤖 Exploring **AI Content Creation**
 - 🇯🇵 Learning **Japanese (Genki + Kanji)**
 
 ---
 
-## ⚡ What I’m Building
-
-- 📊 Interactive Dashboards (Power BI)
-- 🤖 Machine Learning Models
-- 🎬 AI-generated Visual Content
-- 📈 Growth Systems for YouTube
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`Python` `SQL`
-
-### 📊 Data & Tools
-`Power BI` `Pandas` `NumPy` `Matplotlib`
-
-### 🤖 ML & AI
-`Scikit-learn` `Model Building` `EDA`
-
-### 🎬 Creator Tools
-`Canva` `CapCut` `AI Tools`
-
----
-
-## 📈 GitHub Stats
+<!-- ⚡ SKILLS -->
+## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  
+<img src="https://skillicons.dev/icons?i=python,sql" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
 
+<!-- 📊 STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- 🔥 PROJECTS -->
 ## 🔥 Featured Projects
 
-### 📊 Uber Dashboard
-- Built an interactive dashboard analyzing ride trends
-- Insights on peak hours, revenue & user behavior
+### 🚖 Uber Dashboard
+> 📊 Data visualization project analyzing ride patterns, peak hours & revenue insights
 
 ### 🤖 ML Projects
-- Classification & Prediction Models
-- Real-world datasets with full pipeline
+> 🧠 Classification models, EDA pipelines & real-world datasets
 
 ---
 
+<!-- 🌍 CONNECT -->
 ## 🌍 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
-<a href="https://youtube.com/@yourchannel" target="blank">YouTube</a>
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://youtube.com/@yourchannel">YouTube</a>
 </p>
 
 ---
 
-## ⚡ Personal Edge
-
-> I don’t just learn — I build, share, and grow in public 🚀
+<!-- ⚡ FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
