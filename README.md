@@ -1,91 +1,27 @@
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Fahad%20Khan&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20BI%20Developer&descSize=18&descAlignY=68" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Fahad%20Khan&fontSize=75&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Problem%20Solver&descAlignY=58&animation=twinkling" />
 </p>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=36BCF7&center=true&width=520&lines=21K%2B+Transactions+Analyzed;Power+BI+%7C+SQL+%7C+Python;Building+Data-Driven+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=21K%2B+Transactions+Analyzed;Built+High-Performance+Power+BI+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+DAX;Turning+Raw+Data+Into+Business+Insights" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 BCA Graduate  
-📊 Data Analyst & BI Developer  
-🏢 Deloitte Data Analytics Intern  
-📍 Hyderabad, India  
-
-I build dashboards, automate reporting workflows, and transform raw data into actionable insights using **Python, SQL, Power BI, and DAX**.
-
----
-
-## 🚀 Experience
-
-### Data Analytics Intern — Deloitte Australia *(2025 – Present)*
-
-- Analyzed **50+ datasets** and identified business trends
-- Built **Power BI dashboards** with KPI tracking
-- Improved data validation accuracy by **40%**
-- Delivered analytics tasks with **100% on-time completion**
-
----
-
-## 📌 Featured Projects
-
-### 📊 Business Ledger Analytics
-- Processed **21K+ transactions**
-- Built dashboards using **Python, SQL & Power BI**
-- Reduced reporting time by **62.5%**
-
-### 🌦 Weather Forecast Dashboard
-- Integrated live regional weather datasets
-- Created **12+ DAX measures**
-- Managed **5K+ daily records**
-
-### 🤖 RAG AI Assistant
-- Developed semantic search pipeline for videos
-- Generated **2K+ AI chunks**
-- Reduced search time from **10 min → 2 min**
-
----
-
-## 🛠 Tech Stack
-
+<!-- PROFILE VIEWS + FOLLOWERS -->
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-012456?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+  <img src="https://komarev.com/ghpvc/?username=RixzFahad&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/RixzFahad?label=Followers&style=flat&color=38BDF8" />
+  <img src="https://img.shields.io/github/stars/RixzFahad?label=Stars&style=flat&color=FACC15" />
 </p>
 
 ---
 
-## 📜 Certifications
+# ⚡ ABOUT ME
 
-🏆 Deloitte — Cyber Job Simulation  
-🏆 TATA — Data Visualization  
-🏆 Power BI & Data Analytics Certifications  
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-
-[📧 Email](mailto:khanfahad004x@gmail.com) •
-[💻 GitHub](https://github.com/RixzFahad) •
-[🔗 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-
-</p>
-
----
-
-<p align="center">
-  <b>Turning Data Into Insights 📊</b>
-</p>
+```yaml
+Name: Fahad Khan
+Role: Data Analyst & BI Developer
+Experience: 6+ Months Hands-On
+Focus: Analytics • Automation • Dashboards
+Location: Hyderabad, India
