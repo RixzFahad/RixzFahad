@@ -1,4 +1,4 @@
-<!-- HERO's SECTION -->            
+<!-- HERO's SECTION -->             
 <p align="center">        
     
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Fahad%20Khan&fontSize=75&fontAlignY=38&fontColor=ffffff&desc=Data%20Analyst%20%7C%20BI%20Developer%20%7C%20Problem%20Solver&descAlignY=58&animation=twinkling" />
