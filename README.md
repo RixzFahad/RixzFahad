@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=21K%2B+Transactions+Analyzed;Built+High-Performance+Power+BI+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+DAX;Turning+Raw+Data+Into+Business+Insights" />
 </p>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->  
+<!-- PROFILE VIEWS + FOLLOWERS -->   
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=RixzFahad&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/RixzFahad?label=Followers&style=flat&color=38BDF8" />
